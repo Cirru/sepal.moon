@@ -15,6 +15,5 @@ expandedTree = transform tree
 print JSON\encode expandedTree
 
 print ''
-print ''
 
 print (compile.tree expandedTree)
